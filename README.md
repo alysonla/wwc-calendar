@@ -1,3 +1,13 @@
+# Women Who Code - Calendar of Events
+
+This is a [gh-page](http://pages.github.com/) calendar of [Women Who Code](http://www.womenwhocode.com/) events sent out in the weekly newletter. The data is pulled from a google spreadsheet. 
+
+Fork of @jlord's Sheetsee Calendar. :heart: 
+
+Original readme.md info below. :arrow_down:
+
+------------------------------------------------------------------------
+
 # Sheetsee Calendar
 
 A fork-n-go Sheetsee.js calendar project!
