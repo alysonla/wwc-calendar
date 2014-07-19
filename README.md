@@ -4,6 +4,13 @@ This is a [gh-page](http://pages.github.com/) calendar of [Women Who Code](http:
 
 Fork of @jlord's Sheetsee Calendar. :heart: 
 
+### Contributing code
+
+- Fork the repository - https://help.github.com/articles/fork-a-repo
+- Create a branch (e.g. `my-awesome-feature`) for the work you’re going to do - https://help.github.com/articles/fork-a-repo#create-branches
+- Make your awesome changes in your topic branch.
+- Send a pull request from your branch to this repository - https://help.github.com/articles/using-pull-requests
+
 Original readme.md info below. :arrow_down:
 
 ------------------------------------------------------------------------
